@@ -37,12 +37,14 @@
 | 결과 전달·완료 주장 | [보고](evidence/reporting.md), [완료 점검](evidence/completion.md) |
 | 오류 발견·사용자 지적 | [정정](evidence/corrections.md) |
 | 에이전트 위임·병렬 작업 | [위임](orchestration/delegation.md) |
+| 프로젝트 목표 정의·변경·단계 목표 설정 | [목표와 작업 연결](alignment/goals.md) |
+| UX 불만·새 화면·핵심 흐름·정보 표현 변경 | [UX 검토](engineering/ux-review.md) |
 | TODO·장기 작업·상태 관리 | [상태](orchestration/state.md) |
 | 반복 실패·중단·재개 | [복구](orchestration/recovery.md) |
 | 코드 구현·수정 | [구현](engineering/implementation.md) |
 | 테스트·검증 설계 | [테스트](engineering/testing.md) |
 | 코드 리뷰 | [리뷰](engineering/review.md) |
-| 전문 기능 부족·도구 추가/교체 | [도입 절차](../integrations/README.md) |
+| 새 목표·중요 범위 변경·역량 부족·도구 추가/교체 | [도입 절차](../integrations/README.md) |
 
 기술별 전문 지식은 필요할 때 기존 기능과 외부 스킬·에이전트를 조사해 보완한다.
 문서 지시와 실제 실행 도구가 강제하는 기능을 구분한다. 이 문서 묶음 자체는 자동 실행기나 CI가 아니다.
